@@ -1,6 +1,6 @@
 # A development container for Elixir
 
-This is an opinionated [Dev Container](https://containers.dev) for Elixir (Elixir 1.18.2/OTP 25).
+This is an opinionated [Dev Container](https://containers.dev) for Elixir (1.18).
 
 ## Using with Visual Studio Code
 
@@ -10,7 +10,7 @@ Follow the steps below to use the Dev Container with Visual Studio Code:
 2. Copy the `.devcontainer` folder in this repository to the root of your project;
 3. Reload the project by opening the command palette (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>) and executing the command `>Reload Window` or by closing and re-opening Visual Studio Code;
 4. Click `Reopen in Container` when Visual Studio Code prompts you (see image below), or by opening the command palette (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> or <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>) and executing the command `>Dev Containers: Reopen in Container`;
-5. (Optional) Copy the `.vscode` folder in this repository to the root of your project.
+5. (Optional) Copy `.vscode` and `.iex.exs` in this repository to the root of your project.
 
 ## How does it work
 

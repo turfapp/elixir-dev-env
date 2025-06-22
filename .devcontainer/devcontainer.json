@@ -1,6 +1,7 @@
 {
   "name": "DevContainer for Elixir",
   "remoteUser": "vscode",
+  "postCreateCommand": "",
   "build": {
     "context": "..",
     "dockerfile": "Dockerfile"
